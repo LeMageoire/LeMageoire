@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mathis Guyot</h1>
-<h3 align="center">A Electrical/Hardware Engineer Learning DevOps / Software engineering</h3>
+<h1 align="center">👋 Hi, I'm Mathis Guyot</h1>
+<h3 align="center">A Electrical/Hardware Engineer in embedded devices </h3>
 
 - 🌱 I’m currently learning **Network / DevOps / WebDev**
-
 - 💬 Ask me about **C/C++/Python**
-
 - 📫 How to reach me **Linked In or Email**
 
 <h3 align="left">Connect with me:</h3>
